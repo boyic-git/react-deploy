@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/react-deploy/static/css/main.1937ce99.css",
-    "main.js": "/react-deploy/static/js/main.d074efa7.js",
+    "main.js": "/react-deploy/static/js/main.4e9c90b7.js",
     "static/js/787.1d037126.chunk.js": "/react-deploy/static/js/787.1d037126.chunk.js",
     "static/media/bitcoin-tail.png": "/react-deploy/static/media/bitcoin-tail.ea513a9414ec0abf998f.png",
     "static/media/ether-head.png": "/react-deploy/static/media/ether-head.dcd37ef4b3299f88140c.png",
     "index.html": "/react-deploy/index.html",
     "main.1937ce99.css.map": "/react-deploy/static/css/main.1937ce99.css.map",
-    "main.d074efa7.js.map": "/react-deploy/static/js/main.d074efa7.js.map",
+    "main.4e9c90b7.js.map": "/react-deploy/static/js/main.4e9c90b7.js.map",
     "787.1d037126.chunk.js.map": "/react-deploy/static/js/787.1d037126.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1937ce99.css",
-    "static/js/main.d074efa7.js"
+    "static/js/main.4e9c90b7.js"
   ]
 }
