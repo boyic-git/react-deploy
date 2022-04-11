@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-deploy/static/css/main.1937ce99.css",
-    "main.js": "/react-deploy/static/js/main.a975f106.js",
+    "main.css": "/react-deploy/static/css/main.6adbff46.css",
+    "main.js": "/react-deploy/static/js/main.4fc6c97c.js",
     "static/js/787.1d037126.chunk.js": "/react-deploy/static/js/787.1d037126.chunk.js",
     "static/media/bitcoin-tail.png": "/react-deploy/static/media/bitcoin-tail.ea513a9414ec0abf998f.png",
     "static/media/ether-head.png": "/react-deploy/static/media/ether-head.dcd37ef4b3299f88140c.png",
     "index.html": "/react-deploy/index.html",
-    "main.1937ce99.css.map": "/react-deploy/static/css/main.1937ce99.css.map",
-    "main.a975f106.js.map": "/react-deploy/static/js/main.a975f106.js.map",
+    "main.6adbff46.css.map": "/react-deploy/static/css/main.6adbff46.css.map",
+    "main.4fc6c97c.js.map": "/react-deploy/static/js/main.4fc6c97c.js.map",
     "787.1d037126.chunk.js.map": "/react-deploy/static/js/787.1d037126.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1937ce99.css",
-    "static/js/main.a975f106.js"
+    "static/css/main.6adbff46.css",
+    "static/js/main.4fc6c97c.js"
   ]
 }
